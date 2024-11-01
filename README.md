@@ -7,15 +7,15 @@ Analyzing factors contributing to student churn and formulating recommendations.
 
 ## Project Goals
 
-By the end of the internship, I aim to deliver a comprehensive report and presentation that includes:
+	1.	Develop Predictive Models: Build models to forecast student engagement trends.
+	2.	Analyze Churn Factors: Identify and analyze factors contributing to student churn.
+	3.	Generate Recommendations: Formulate actionable strategies to reduce churn and improve engagement.
 
-- Detailed analysis of student engagement.
-- Results from predictive modeling and churn analysis.
-- Actionable recommendations for improving engagement.
-- A prototype of a recommendation system.
+# Technologies Used
 
-## Technologies Used
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
-- Data Visualization Tools
-- Jupyter Notebook for analysis
+	•	Python: Main programming language.
+	•	Scikit-Learn: For building and evaluating predictive models.
+	•	Pandas: Data manipulation and analysis.
+	•	NumPy: Numerical computations.
+	•	Matplotlib & Seaborn: Data visualization.
+	•	Jupyter Notebook: Interactive development environment for analysis and documentation.
